@@ -18,9 +18,9 @@
 					<li class="active">{!!Html::link('/', 'HOME') !!}</li>
 					<li>{!!Html::link('/about', 'ABOUT', array('class'=>'"hvr-rectangle-out"'))!!}</li>
 					<li>{!!Html::link('/services', 'SERVICES', array('class'=>'"hvr-rectangle-out"'))!!}</li>
-					<li><a href="#" class="hvr-rectangle-out">Menu</a></li>
-					<li><a href="#" class="hvr-rectangle-out">Menu</a></li>
-					<li><a href="#" class="hvr-rectangle-out">Menu</a></li>
+					<li>{!!Html::link('/contact', 'CONTACT', array('class'=>'"hvr-rectangle-out"'))!!}</li>
+					<!--li><a href="#" class="hvr-rectangle-out">Menu</a></li-->
+					<!--li><a href="#" class="hvr-rectangle-out">Menu</a></li-->
 				</ul>
 			</nav>
 		</div>

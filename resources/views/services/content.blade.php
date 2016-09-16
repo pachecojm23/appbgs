@@ -38,6 +38,70 @@
 		</div>
 		<div class="clearfix"> </div>
 	</div>
-
-	
 </div>
+
+<!-- gallery -->
+<div class="gallery">
+	<h2>Nuestros Servicios</h2>
+	<div class="gallery-grids">
+		<section>
+			<ul id="da-thumbs" class="da-thumbs">
+				<li>
+					<a href="#" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<img src="images/ballet.jpg" alt="" />
+						<div>
+							<h5>Clases de Ballet</h5>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<img src="images/guitarra.jpg" alt="" />
+						<div>
+							<h5>Kids School</h5>
+							<span>non suscipit leo fringilla non suscipit leo fringilla molestie</span>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<img src="images/taekwondo.jpg" alt="" />
+						<div>
+							<h5>Kids School</h5>
+							<span>non suscipit leo fringilla non suscipit leo fringilla molestie</span>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<img src="images/teclado.jpg" alt="" />
+						<div>
+							<h5>Kids School</h5>
+							<span>non suscipit leo fringilla non suscipit leo fringilla molestie</span>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<img src="images/ingles.jpg" alt="" />
+						<div>
+							<h5>Kids School</h5>
+							<span>non suscipit leo fringilla non suscipit leo fringilla molestie</span>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="#" rel="title" class="b-link-stripe b-animate-go  thickbox">
+						<img src="images/violin.jpg" alt="" />
+						<div>
+							<h5>Kids School</h5>
+							<span>non suscipit leo fringilla non suscipit leo fringilla molestie</span>
+						</div>
+					</a>
+				</li>
+				<div class="clearfix"> </div>
+			</ul>
+		</section>
+	</div>
+</div>
+<!-- //gallery -->

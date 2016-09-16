@@ -10,14 +10,14 @@
 				</div>
 				<div class="col-md-4 footer-grid">
 					<ul>
-						<li><a href="#">Menu</a></li>
+						<li>{!!Html::link('/about', 'About')!!}</li>
 						<li><a href="#">Menu</a></li>
 						<li><a href="#">Menu</a></li>
 					</ul>
 				</div>
 				<div class="col-md-4 footer-grid">
 					<ul>
-						<li><a href="#">Menu</a></li>
+						<li>{!!Html::link('/contact', 'Contact')!!}</li>
 						<li>{!!Html::link('/services', 'Services')!!}</li>
 						<li>{!!Html::link('/','Home')!!}</li>
 					</ul>
