@@ -16,10 +16,10 @@
 			<nav class="stroke">
 				<ul class="nav navbar-nav">
 					<li class="active">{!!Html::link('/', 'HOME') !!}</li>
-					<li>{!!Html::link('/about', 'ABOUT', array('class'=>'"hvr-rectangle-out"'))!!}</li>
-					<li>{!!Html::link('/services', 'SERVICES', array('class'=>'"hvr-rectangle-out"'))!!}</li>
-					<li>{!!Html::link('/contact', 'CONTACT', array('class'=>'"hvr-rectangle-out"'))!!}</li>
-					<!--li><a href="#" class="hvr-rectangle-out">Menu</a></li-->
+					<li>{!!Html::link('/about', 'NOSOTROS', array('class'=>'"hvr-rectangle-out"'))!!}</li>
+					<li>{!!Html::link('/services', 'SERVICIOS', array('class'=>'"hvr-rectangle-out"'))!!}</li>
+					<li>{!!Html::link('/contact', 'CONTACTO', array('class'=>'"hvr-rectangle-out"'))!!}</li>
+					<li>{!!Html::link('/gestion', 'GESTION AULA', array('class'=>'"hvr-rectangle-out"'))!!}</li>
 					<!--li><a href="#" class="hvr-rectangle-out">Menu</a></li-->
 				</ul>
 			</nav>
