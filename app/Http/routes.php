@@ -27,5 +27,8 @@ Route::get('/contact',function(){
     return view('contactus');
 });
 
+Route::get('/gestion',function(){
+    return view('gestion');
+});
 
 
